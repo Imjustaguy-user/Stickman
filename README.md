@@ -8,3 +8,7 @@ Stickman is a cool game that is on develompt, but soon, it will be finished. Her
 5. Enemies separted to differet enviortments.
 
 Sorry if some words have been misspelled, that's because I'm using my memory. Anyways more ideas coming soon!
+
+To build the source, you need:
+1. Game Maker
+2. GML Code
